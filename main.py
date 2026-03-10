@@ -1,1 +1,2 @@
 print('hoji')
+print("kolya") 
